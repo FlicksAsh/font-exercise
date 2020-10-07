@@ -1,0 +1,28 @@
+h1 {
+    font-family: 'Noto Sans JP', sans-serif;
+}
+
+h1 + p {
+    font-family: 'Open Sans', sans-serif;
+}
+
+h3  {
+    font-family: 'Epilogue', sans-serif;
+}
+
+h3 + p + p {
+    font-family: 'Montserrat', sans-serif;
+}
+
+h3 + p {
+    font-family: 'Montserrat', sans-serif;
+}
+
+h5 {
+    font-family: 'Playfair Display', serif;
+}
+
+h5 + p, h5 + p + p, h5 + p + p + p {
+    font-family: 'David Libre', serif;
+}
+
